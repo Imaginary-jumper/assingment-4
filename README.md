@@ -6,4 +6,6 @@ and it handles eroors
 
 additonal: now while writing this code explaination , just got the idea that instead of doing all this len calculation , i could have just called the b[i] and printed it with line number (could have gotten the number by using a for loop).
 
-task 2:
+task 2: write and append , it first taakes user's input and writes on file , since "w" everything previously writeen will be overwrite , now it takes append inout from user and write it but with "a" function means it will append what previously was written to make it in new like , \n was added
+
+and finally full file is printed using "r" finction 
